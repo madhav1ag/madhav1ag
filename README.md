@@ -3,7 +3,8 @@ I am an MS by Research student at [CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in/
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=t8VdoRYAAAAJ&hl=en">Google Scholar</a> |
-  <a href="https://www.linkedin.com/in/madhav3101/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/madhav3101/">LinkedIn</a> |
+  <a href="https://github.com/mdv3101/mdv3101/blob/main/Madhav%20Agarwal.pdf">CV</a> 
 </p>
 
 <details>
