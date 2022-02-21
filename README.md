@@ -6,11 +6,16 @@ I am an MS by Research student at [CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in/
   <a href="https://www.linkedin.com/in/madhav3101/">LinkedIn</a> 
 </p>
 
+<details>
+  <summary>
+    GitHub Stats
+  </summary>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdv3101" alt="mdv3101" /> </p>
 
 ![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdv3101&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdv3101&theme=tokyonight&langs_count=4&layout=compact)
-
+  </a>
+</details>
 <!--
 **mdv3101/mdv3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
