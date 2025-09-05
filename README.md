@@ -28,8 +28,8 @@ Prior to this, I worked as a Data Scientist and a team lead with several compani
   </summary>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdv3101" alt="mdv3101" /> </p>
 
-![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdv3101&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdv3101&theme=tokyonight&langs_count=4&layout=compact)
+![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhav1ag&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhav1ag&theme=tokyonight&langs_count=4&layout=compact)
   </a>
 </details>
 <!--
